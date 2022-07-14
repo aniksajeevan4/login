@@ -1,0 +1,57 @@
+.vh-100{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./img/ceramic-gef08d66ce_1920.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden; 
+}
+.row{
+    justify-content: center;
+    align-items: center;
+}
+card{
+    border-radius: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./img/ceramic-gef08d66ce_1920.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+
+}
+.login{
+    background-color: white;
+    width: 30%;
+    height: auto;
+    margin: 7% auto;
+    padding: 25px 10;
+}
+@media screen and(max-width:100px ) {
+    .login{
+      
+        width: 90%;
+        margin: 35% auto;
+  
+    }
+} */

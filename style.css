@@ -1,9 +1,6 @@
 .vh-100{
-    margin: 0px;
-    padding: 0px;
-    background-image: url(./img/ceramic-gef08d66ce_1920.jpg);
+    background-image: url(./img/yell.jpg);
     background-position: center;
-    background-repeat:no-repeat;
     background-size: cover;
     height: 100%;
     overflow: hidden; 
